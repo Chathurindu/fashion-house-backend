@@ -1,1 +1,3 @@
 npm install express cors mongoose dotenv
+npm install -g nodemon
+nodemon server // for running the surver
